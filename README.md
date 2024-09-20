@@ -10,3 +10,9 @@ Also, arranged the table in ascending order based on the order date.
 
 Assignment 2: 
 
+Dataset used : Global Superstore, 
+steps done: 1. A total sales card chart, 
+            2. A map chart to display the sales spread across the world
+            3. A pie chart to display sales over ship mode
+            4. a slicer of countries where you can see the report country wise.
+
